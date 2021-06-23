@@ -3,6 +3,11 @@ body {
 	padding: 20px 60px;
 }
 
+a {
+	text-decoration: none;
+	color: black;
+}
+
 .container {
 	max-width: 1388px;
 	margin: 0 auto;
